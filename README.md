@@ -1,5 +1,7 @@
 # Async Python Web Frameworks comparison
 
+
+
 https://klen.github.io/py-frameworks-bench/
 ----------
 #### Updated: 2022-03-14
@@ -169,3 +171,11 @@ Nothing here, just some measures for you.
 ## License
 
 Licensed under a MIT license (See LICENSE file)
+
+
+## Other Resources
+List of Py Frameworks:
+- https://deepsource.com/blog/new-python-web-frameworks
+
+In depth Experiment on Blacksheep:
+- https://medium.com/@pond5-technology/a-new-microservice-using-a-lesser-known-framework-720f6e8b7cad#:~:text=BlackSheep%20demonstrates%20an%20ability%20to,being%20a%20factor%20of%20three.
